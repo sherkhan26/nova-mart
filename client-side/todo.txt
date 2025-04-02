@@ -1,0 +1,9 @@
+Tomorrow:
+	[x] - Create back-end
+	[] - Products from back
+	[] - Search page
+	[] - SSG, SSR
+
+[] - Авторизация с 2 токенами
+[] - Оплата
+[] - Деплой
